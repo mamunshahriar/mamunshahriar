@@ -38,14 +38,14 @@ I'm a 3rd-year CSE undergrad, aspiring software engineer, and creative technophi
 ## 📊 GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mamunshahriar&show_icons=true&theme=tokyonight&hide=prs" /> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mamunshahriar&theme=tokyonight" /> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamunshahriar&layout=compact&theme=tokyonight" /> </p>
-🌱 Currently Learning
-🔭 Deep Dive into Backend (Node.js, Express, MongoDB)
 
-✨ Graph Algorithms (for smart logistics & routing systems)
+## 🌱 Currently Learning
 
-🧠 System Design Fundamentals
+🔭 Deep Dive into Backend (Node.js, Express, MongoDB)  
+✨ Graph Algorithms (for smart logistics & routing systems)  
+🧠 System Design Fundamentals  
+🛠️ Building a SaaS product (soon!)  
 
-🛠️ Building a SaaS product (soon!)
 
 
 
